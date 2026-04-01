@@ -2,7 +2,7 @@
 
 A set of templates for building an AI-native executive coaching system using [Obsidian](https://obsidian.md/) and [Claude Code](https://docs.anthropic.com/en/docs/claude-code).
 
-**Read the full writeup:** [Obsidian + Claude Code: Building an AI-Native Executive Coaching System](TODO) on LinkedIn.
+**Read the full writeup:** [Obsidian + Claude Code: Building an AI-Native Executive Coaching System](https://www.linkedin.com/pulse/obsidian-claude-code-building-ai-native-executive-coaching-crooks-3ixhc) on LinkedIn.
 
 ## What is this?
 
